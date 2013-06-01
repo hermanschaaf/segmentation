@@ -1,0 +1,1 @@
+Word segmentation tests written in Go.
